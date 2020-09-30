@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" width="250" height="250"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" width="250" height="100"/>
     <h1 align="center">
         NetFlix Clone
     </h1>
