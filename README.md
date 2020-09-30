@@ -9,7 +9,7 @@
 
 <div align="center" >
   <img src="./src/assets/gitAssets/PaginaLogin.png" alt="demo-web-login" height="425">
-  <img src="./src/assets/gitAssets/HomePage.git" alt="demo-web" height="425">
+  <img src="./src/assets/gitAssets/HomePage.gif" alt="demo-web" height="425">
 </div>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
