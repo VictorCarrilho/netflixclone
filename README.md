@@ -26,13 +26,16 @@ O NetFlixClone é totalmente educacional e foi desenvolvido como parte do curso 
 Visa clonar a interface do NetFlix e eu adicionei o sistema de usuários.
 
 ## Acesso
-Email:  admin@netflixclone.com.br
+Email:  admin@netflixclone.com.br <br>
 Senha:  netflixclone
 
 
-## :layout: Layout
+## Layout
 
 <div align="center" >
-  <img src="./src/assets/gitAssets/PaginaLogin.png" alt="demo-web-login" height="425">
-  <img src="./src/assets/gitAssets/HomePage.gif" alt="demo-web" height="425">
+    <p>Pagina de Login</p>
+    <img src="./src/assets/gitAssets/PaginaLogin.png" alt="demo-web-login" height="425">
+    <br>
+    <p>Pagina Home</p>
+    <img src="./src/assets/gitAssets/HomePage.gif" alt="demo-web" height="425">
 </div>
